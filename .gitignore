@@ -1,0 +1,18 @@
+# Arquivos gerados durante compilação
+bin/
+target/
+
+# Arquivos de configuração específicos da IDE Eclipse
+.settings/
+.classpath
+.project
+.factorypath
+
+# Logs e arquivos temporários
+logs/
+temp/
+*.log
+*.tmp
+
+# Arquivos de configuração sensíveis (modifique para suas necessidades)
+application.properties
